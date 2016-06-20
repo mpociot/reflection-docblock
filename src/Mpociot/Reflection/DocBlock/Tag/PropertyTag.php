@@ -10,7 +10,7 @@
  * @link      http://phpdoc.org
  */
 
-namespace phpDocumentor\Reflection\DocBlock\Tag;
+namespace Mpociot\Reflection\DocBlock\Tag;
 
 /**
  * Reflection class for a @property tag in a Docblock.

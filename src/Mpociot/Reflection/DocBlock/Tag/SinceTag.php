@@ -10,9 +10,9 @@
  * @link      http://phpdoc.org
  */
 
-namespace phpDocumentor\Reflection\DocBlock\Tag;
+namespace Mpociot\Reflection\DocBlock\Tag;
 
-use phpDocumentor\Reflection\DocBlock\Tag\VersionTag;
+use Mpociot\Reflection\DocBlock\Tag\VersionTag;
 
 /**
  * Reflection class for a @since tag in a Docblock.

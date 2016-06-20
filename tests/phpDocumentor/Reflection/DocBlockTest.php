@@ -10,11 +10,11 @@
  * @link      http://phpdoc.org
  */
 
-namespace phpDocumentor\Reflection;
+namespace Mpociot\Reflection;
 
-use phpDocumentor\Reflection\DocBlock\Context;
-use phpDocumentor\Reflection\DocBlock\Location;
-use phpDocumentor\Reflection\DocBlock\Tag\ReturnTag;
+use Mpociot\Reflection\DocBlock\Context;
+use Mpociot\Reflection\DocBlock\Location;
+use Mpociot\Reflection\DocBlock\Tag\ReturnTag;
 
 /**
  * Test class for phpDocumentor\Reflection\DocBlock

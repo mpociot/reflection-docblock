@@ -10,9 +10,9 @@
  * @link      http://phpdoc.org
  */
 
-namespace phpDocumentor\Reflection\DocBlock;
+namespace Mpociot\Reflection\DocBlock;
 
-use phpDocumentor\Reflection\DocBlock;
+use Mpociot\Reflection\DocBlock;
 
 /**
  * Serializes a DocBlock instance.

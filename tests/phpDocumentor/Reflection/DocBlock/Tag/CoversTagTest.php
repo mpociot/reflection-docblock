@@ -10,7 +10,7 @@
  * @link      http://phpdoc.org
  */
 
-namespace phpDocumentor\Reflection\DocBlock\Tag;
+namespace Mpociot\Reflection\DocBlock\Tag;
 
 /**
  * Test class for \phpDocumentor\Reflection\DocBlock\Tag\CoversTag

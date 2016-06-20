@@ -4,21 +4,23 @@
  *
  * PHP Version 5.3
  *
- * @author    Mike van Riel <mike.vanriel@naenius.com>
+ * @author    Vasil Rangelov <boen.robot@gmail.com>
  * @copyright 2010-2011 Mike van Riel / Naenius (http://www.naenius.com)
  * @license   http://www.opensource.org/licenses/mit-license.php MIT
  * @link      http://phpdoc.org
  */
 
-namespace phpDocumentor\Reflection\DocBlock\Tag;
+namespace Mpociot\Reflection\DocBlock\Tag;
+
+use Mpociot\Reflection\DocBlock\Tag\VersionTag;
 
 /**
- * Reflection class for a @throws tag in a Docblock.
+ * Reflection class for a @deprecated tag in a Docblock.
  *
- * @author  Mike van Riel <mike.vanriel@naenius.com>
+ * @author  Vasil Rangelov <boen.robot@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT
  * @link    http://phpdoc.org
  */
-class ThrowsTag extends ReturnTag
+class DeprecatedTag extends VersionTag
 {
 }
